@@ -1,5 +1,7 @@
 # Hi, I am Ashish 👋🧑💻
 
+**Results-driven Software Engineer | Product Development | Data Engineering | Solutions Architecture | Application Development | Consulting**
+
 I am a highly accomplished Software Engineer with over 10.2 years of experience in the IT industry. Throughout my career, I have played diverse roles in product development, data engineering, solutions architecture, application development, and consulting.
 
 I have a proven track record of delivering high-quality solutions in domains such as Learning, Telecom, and Industrial IoT. With a strong technical skill set and a passion for innovation, I strive to create impactful software solutions that drive business success.
